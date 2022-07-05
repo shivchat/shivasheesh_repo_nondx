@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?><Package xmlns="http://soap.sforce.com/2006/04/metadata">
     <version>54.0</version>
     <types>
+        <members>GeocodingService</members>
+        <name>ApexClass</name>
+    </types>
+    <types>
         <members>folder1</members>
         <members>folder1/folder2</members>
         <members>folder1/folder2/folder3</members>
