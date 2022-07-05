@@ -5,11 +5,10 @@
         <name>ApexClass</name>
     </types>
     <types>
-        <members>nf1</members>
-        <members>nf1/nf2</members>
-        <members>nf1/nf2/nf3</members>
-        <members>nf1/nf2/nf3/report2_mWF</members>
-        <members>nf1/report3_4mr</members>
+        <members>folder1</members>
+        <members>folder1/folder2</members>
+        <members>folder1/folder2/folder3</members>
+        <members>folder1/folder2/folder3/report1_3H2</members>
         <name>Report</name>
     </types>
 </Package>
