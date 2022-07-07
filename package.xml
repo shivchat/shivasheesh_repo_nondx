@@ -5,8 +5,10 @@
         <name>ApexClass</name>
     </types>
     <types>
-        <members>unfiled$public/New_Accounts_Report_tMy</members>
-        <members>unfiled$public/flow_screen_prebuilt_report</members>
+        <members>folder1</members>
+        <members>folder1/folder2</members>
+        <members>folder1/folder2/folder3</members>
+        <members>folder1/folder2/folder3/report1_3H2</members>
         <name>Report</name>
     </types>
 </Package>
